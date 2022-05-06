@@ -1,0 +1,15 @@
+.LoginFormSuccessTitle {
+    color: #FFFFFF;
+    background-color:blueviolet;
+    border-radius: 10px;
+    position: absolute;
+    width: 387.15px;
+    height: 40px;
+    left: 653px;
+    top: 185px;
+    font-size: 30px;
+    padding: 5px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Raleway', sans-serif;    
+    text-align: center;
+}

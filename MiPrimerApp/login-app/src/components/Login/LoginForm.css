@@ -1,0 +1,140 @@
+.LoginForm {
+    position: absolute;
+    width: 927px;
+    height: 647px;
+    left: 375px;
+    top: 316px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    
+}
+
+.LoginFormTitle {
+    color: #FFFFFF;
+    position: absolute;
+    width: 387.15px;
+    height: 32px;
+    left: 653px;
+    top: 185px;
+    font-size: 28px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.LoginFormDescription {
+    width: 747.18px;
+    height: 29px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #666666;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.LoginFormContainer {
+    position: absolute;
+    width: 751px;
+    height: 502px;
+    left: 88px;
+    top: 59px;
+    right: 88px;
+    bottom: 59px;
+    display: flex;
+    flex-direction: column;
+}
+
+.LoginFormEmail {
+    margin-bottom: 45px;
+}
+
+.LoginFormLabel {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    color: #666666;
+    width: 100%;
+}
+
+.LoginFormInput {
+    width: 725px;
+    height: 58px;
+    background-color:#F5F5F5;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    color: #666666;
+    padding: 10px;
+}
+
+.ForgotPassword {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #999999;
+    text-align: end;
+    margin: 0px;
+    padding-top: 5px;
+}
+
+.SelectButtonContainer {
+    background: #2148C0;
+    border-radius: 10px;
+    width: 150px;
+    height: 73px;
+    font-weight: 400;
+    font-size: 24px;
+    color: white;
+    margin-bottom: 59px;
+    padding: 20px;
+}
+
+.SelectButton {
+    background: #2148C0;
+    font-size: 24px;
+    color: white;
+    border-color: #2148C0;
+    text-align: center;
+    
+}
+
+
+.LoginFormButton {
+    background: #2148C0;
+    border-radius: 10px;
+    width: 750px;
+    height: 73px;
+    font-weight: 400;
+    font-size: 24px;
+    color: white;
+    padding: 20px;
+}
+
+.LoginFormSelectContainer {
+    width: 751px;
+    height: 108px;
+    display: flex;
+    flex-direction: column;
+}
+
+.LoginFormError {
+    width: 100%;
+    border: 1px solid #2148C0;
+    box-sizing: border-box;
+    background-color: #2148C0;
+    border-radius: 6px;
+    height: 80px;
+    font-family: 'Inter';
+    font-style:normal;
+    font-weight: 500;
+    font-size: 30px;
+    color: red;
+    padding: 10px;
+}
+
+
